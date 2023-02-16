@@ -1,27 +1,27 @@
-### Hi there 👋
 
 
-**GihanJeewantha/GihanJeewantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+
+
+- <!-🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 
-<h1 align="center">Hi 👋, I'm JeewanthaDilshan</h1>
+<h1 align="center">Hi there 👋, I'm JeewanthaDilshan</h1>
 <h3 align="center">Undergraduate Software engineer from Sri lanka</h3>
  
 <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/706457c438d2031942745299f52de650adf45a3b87de1ded443696b405dd881d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966">
  
 - ⚡ Fun fact **I am funny😅**</br>
-- Ask me : Java,Mern,Android,python😊</br>
+- 💬 Ask me : Java,Mern,Android,python😊</br>
 - Contact me :Dilshanjeewanthag@gmail.com</br>
  
 <h3 align="left">Connect with me:</h3>
