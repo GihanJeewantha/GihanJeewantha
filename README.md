@@ -27,6 +27,10 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I'm funny and love to crack jokes 😄**
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GihanJeewantha&layout=compact)
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
