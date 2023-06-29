@@ -6,6 +6,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+![Image Description](https://github.com/GihanJeewantha/GihanJeewantha/raw/main/header_.png)
 
 
 <h1 align="center">Hi there 👋, I'm JeewanthaDilshan</h1>
