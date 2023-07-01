@@ -19,7 +19,7 @@
 </p>
 
  
-- ⚡ Fun fact: **I have a great sense of humor!** 😄
+
 - 💬 Ask me about: Java, MERN stack, Android, Python! 😊
 - 📫 Contact me: Dilshanjeewanthag@gmail.com
 
