@@ -1,5 +1,9 @@
 ![Image Description](https://github.com/GihanJeewantha/GihanJeewantha/raw/main/header_.png)
 
+
+<h1 align="center">Hi there 👋, I'm JeewanthaDilshan</h1>
+<h3 align="center">Undergraduate Software engineer from Sri lanka</h3>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -8,11 +12,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
-
-
-
-<h1 align="center">Hi there 👋, I'm JeewanthaDilshan</h1>
-<h3 align="center">Undergraduate Software engineer from Sri lanka</h3>
  
 <p align="top-left">
 
