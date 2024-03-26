@@ -30,7 +30,7 @@
 - React Native 📱
 - Python 🐍
 
-- 📫 Contact me: gihanjeewanthad@gmail.com
+- 📫 Contact me: jeewanthadilshanjd@gmail.com
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
