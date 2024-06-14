@@ -4,6 +4,10 @@
 <h3 align="center">Undergraduate Software Engineer at SLIIT</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Welcome+to+my+GitHub+profile!;I+am+an+enthusiastic+software+engineer." alt="Typing SVG">
+</p>
+
+<p align="center">
   <img alt="coding gif" width="400" src="https://github.com/GihanJeewantha/GihanJeewantha/blob/main/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966.gif">
 </p>
 
@@ -98,3 +102,20 @@
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GihanJeewantha&show_icons=true&locale=en&theme=radical" alt="GihanJeewantha" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GihanJeewantha&theme=radical" alt="GihanJeewantha" /></p>
+
+## GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GihanJeewantha&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+## Profile Views:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GihanJeewantha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+## Support:
+<p align="center">
+  <a href="https://www.buymeacoffee.com/jeewantha" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7DF1E.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+</p>
