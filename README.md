@@ -21,7 +21,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Skills
+## 🛠️ Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/MERN-4EB1BA.svg?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack">
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 </p>
 
-## Languages and Tools
+## 🧰 Languages and Tools
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin: 10px;">
@@ -88,17 +88,7 @@
   </a>
 </p>
 
-## Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/jeewantha-dilshan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" style="vertical-align:top; margin:4px">
-  </a>
-</p>
-
-## GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanJeewantha&layout=compact&langs_count=6&theme=radical" alt="GihanJeewantha's Top Languages" />
 </p>
@@ -109,17 +99,27 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GihanJeewantha&theme=radical" alt="GihanJeewantha" />
 </p>
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GihanJeewantha&theme=onedark" alt="GitHub Trophies" />
 </p>
 
-## Profile Views
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeewantha-dilshan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+
+## 📈 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GihanJeewantha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## Support
+## ☕ Support
 <p align="center">
   <a href="https://www.buymeacoffee.com/jeewantha" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7DF1E.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
