@@ -97,23 +97,29 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" style="vertical-align:top; margin:4px">
   </a>
 </p>
-## GitHub Stats:
-<p align="left">
+
+## GitHub Stats
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanJeewantha&layout=compact&langs_count=6&theme=radical" alt="GihanJeewantha's Top Languages" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GihanJeewantha&show_icons=true&locale=en&theme=radical" alt="GihanJeewantha" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GihanJeewantha&theme=radical" alt="GihanJeewantha" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GihanJeewantha&show_icons=true&locale=en&theme=radical" alt="GihanJeewantha" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GihanJeewantha&theme=radical" alt="GihanJeewantha" />
+</p>
 
-## GitHub Trophies:
+## GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GihanJeewantha&theme=onedark" alt="GitHub Trophies" />
 </p>
 
-## Profile Views:
+## Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GihanJeewantha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-## Support:
+
+## Support
 <p align="center">
   <a href="https://www.buymeacoffee.com/jeewantha" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7DF1E.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
