@@ -15,14 +15,14 @@
 
 ## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about: **Java, MERN stack, Android, Python**
-- 📫 How to reach me: [jeewanthadilshanjd@gmail.com](mailto:jeewanthadilshanjd@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 **Currently working on:** ...
+- 🌱 **Currently learning:** ...
+- 👯 **Looking to collaborate on:** ...
+- 🤔 **Need help with:** ...
+- 💬 **Ask me about:** **Java, MERN stack, Android, Python**
+- 📫 **Reach me at:** [jeewanthadilshanjd@gmail.com](mailto:jeewanthadilshanjd@gmail.com)
+- 😄 **Pronouns:** ...
+- ⚡ **Fun fact:** ...
 
 ---
 
@@ -101,36 +101,32 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanJeewantha&layout=compact&langs_count=6&theme=radical" alt="GihanJeewantha's Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GihanJeewantha&show_icons=true&locale=en&theme=radical" alt="GihanJeewantha" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GihanJeewantha&theme=radical" alt="GihanJeewantha" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GihanJeewantha&show_icons=true&theme=radical" alt="GihanJeewantha's GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanJeewantha&layout=compact&theme=radical" alt="GihanJeewantha's Top Languages" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GihanJeewantha&theme=radical" alt="GihanJeewantha's GitHub Streak" height="180em"/>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GihanJeewantha&theme=onedark" alt="GitHub Trophies" />
-</p>
+</div>
 
 ---
 
 ## 🔗 Connect with Me
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/jeewantha-dilshan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
   </a>
   <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="40" style="vertical-align:top; margin:4px">
   </a>
-</p>
+</div>
 
 ---
 
