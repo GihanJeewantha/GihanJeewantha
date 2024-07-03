@@ -11,17 +11,23 @@
   <img alt="coding gif" width="400" src="https://github.com/GihanJeewantha/GihanJeewantha/blob/main/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966.gif">
 </p>
 
+---
+
 ## About Me
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about: Java, MERN stack, Android, Python! 😊
+- 💬 Ask me about: **Java, MERN stack, Android, Python**
 - 📫 How to reach me: [jeewanthadilshanjd@gmail.com](mailto:jeewanthadilshanjd@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+---
+
 ## 🛠️ Skills
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/MERN-4EB1BA.svg?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack">
@@ -30,7 +36,10 @@
   <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 </p>
 
+---
+
 ## 🧰 Languages and Tools
+
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin: 10px;">
@@ -88,7 +97,10 @@
   </a>
 </p>
 
+---
+
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanJeewantha&layout=compact&langs_count=6&theme=radical" alt="GihanJeewantha's Top Languages" />
 </p>
@@ -99,12 +111,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GihanJeewantha&theme=radical" alt="GihanJeewantha" />
 </p>
 
+---
+
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GihanJeewantha&theme=onedark" alt="GitHub Trophies" />
 </p>
 
+---
+
 ## 🔗 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jeewantha-dilshan/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
@@ -114,12 +132,18 @@
   </a>
 </p>
 
+---
+
 ## 📈 Profile Views
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GihanJeewantha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+---
+
 ## ☕ Support
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/jeewantha" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7DF1E.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
