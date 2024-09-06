@@ -11,23 +11,18 @@
   <img alt="coding gif" width="400" src="https://github.com/GihanJeewantha/GihanJeewantha/blob/main/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966.gif">
 </p>
 
-<p align="center">
-  <img src="https://github.com/GihanJeewantha/GihanJeewantha/blob/main/fun_coding.gif" alt="coding gif" width="400">
-</p>
-
-
 ---
 
 ## About Me
 
-- 🔭 **Currently working on:*BOC Bank AS Developer* ...
-- 🌱 **Currently learning:*Spring Boot / Angular / React* ...
-- 👯 **Looking to collaborate on:** ...
-- 🤔 **Need help with:** ...
+- 🔭 **Currently working on:** BOC Bank AS Developer
+- 🌱 **Currently learning:** Spring Boot / Angular / React
+- 👯 **Looking to collaborate on:** Open-source Projects
+- 🤔 **Need help with:** Full-stack Development (MERN/Java)
 - 💬 **Ask me about:** **Java, MERN stack, Android, Python**
 - 📫 **Reach me at:** [jeewanthadilshanjd@gmail.com](mailto:jeewanthadilshanjd@gmail.com)
-- 😄 **Pronouns:** ...
-- ⚡ **Fun fact:** ...
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I love exploring new technologies and am a huge coffee enthusiast.
 
 ---
 
@@ -109,44 +104,24 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GihanJeewantha&show_icons=true&theme=radical" alt="GihanJeewantha's GitHub Stats" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanJeewantha&layout=compact&theme=radical" alt="GihanJeewantha's Top Languages" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GihanJeewantha&theme=radical" alt="GihanJeewantha's GitHub Streak" height="180em"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GihanJeewantha&theme=onedark" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ## 🔗 Connect with Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jeewantha-dilshan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="40" style="vertical-align:top; margin:4px">
-  </a>
-</div>
-
----
-
-## 📈 Profile Views
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GihanJeewantha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/gihan-jeewantha/" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:jeewanthadilshanjd@gmail.com" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+  <a href="https://www.github.com/GihanJeewantha" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
-## ☕ Support
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/jeewantha" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7DF1E.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-</p>
+⭐️ From [GihanJeewantha](https://github.com/GihanJeewantha)
