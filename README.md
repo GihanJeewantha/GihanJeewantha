@@ -11,6 +11,11 @@
   <img alt="coding gif" width="400" src="https://github.com/GihanJeewantha/GihanJeewantha/blob/main/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966.gif">
 </p>
 
+<p align="center">
+  <img src="https://github.com/GihanJeewantha/GihanJeewantha/blob/main/fun_coding.gif" alt="coding gif" width="400">
+</p>
+
+
 ---
 
 ## About Me
