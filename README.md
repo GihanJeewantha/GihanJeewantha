@@ -15,14 +15,15 @@
 
 ## About Me
 
-- 🔭 **Currently working on:*BOC Bank AS Developer* ...
-- 🌱 **Currently learning:*Spring Boot / Angular / React* ...
-- 👯 **Looking to collaborate on:** ...
-- 🤔 **Need help with:** ...
-- 💬 **Ask me about:** **Java, MERN stack, Android, Python**
+- 🔭 **Currently working as:** BOC Bank AS Developer
+- 🌱 **Currently learning:** Spring Boot, Angular, React
+- 👯 **Looking to collaborate on:** Open-source Java or MERN stack projects, cross-platform mobile app development
+- 🤔 **Need help with:** Optimizing full-stack applications, debugging complex code issues, best practices in microservices architecture
+- 💬 **Ask me about:** Java, MERN stack, Android, Python
 - 📫 **Reach me at:** [jeewanthadilshanjd@gmail.com](mailto:jeewanthadilshanjd@gmail.com)
-- 😄 **Pronouns:** ...
-- ⚡ **Fun fact:** ...
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I once wrote a program that automates my daily coffee brewing routine!
+
 
 ---
 
