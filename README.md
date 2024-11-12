@@ -146,4 +146,4 @@
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7DF1E.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
 </p>
-this is git repo my profile i want developed  it more cool attractive lool user interract do it for me 
+
