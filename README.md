@@ -1,108 +1,153 @@
 <div align="center">
-  <img src="https://github.com/GihanJeewantha/GihanJeewantha/raw/main/header_.png" alt="Header Image" width="100%">
-</div>
-
-# Jeewantha Dilshan
-> Software Engineer | Full-Stack Developer | Technology Innovator
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jeewantha-dilshan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:jeewanthadilshanjd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.buymeacoffee.com/jeewantha"><img src="https://img.shields.io/badge/Support-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
-  <img src="https://komarev.com/ghpvc/?username=GihanJeewantha&style=for-the-badge&color=0e75b6" alt="Profile Views">
+  <!-- Animated SVG Header with gradient and typing effect -->
+  <a href="https://github.com/GihanJeewantha">
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Jeewantha%20Dilshan&width=800&height=400" alt="Jeewantha Dilshan">
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&width=550&lines=Building+innovative+solutions+one+line+at+a+time.;Passionate+about+creating+scalable+applications.;Let's+build+something+extraordinary+together." alt="Typing SVG">
-</div>
-
-## 👨‍💻 About Me
-
-I'm a versatile software engineer with expertise in full-stack development, currently leveraging my skills at BOC Bank. My technical journey spans from enterprise applications to innovative personal projects, with a focus on creating efficient, scalable, and user-friendly solutions.
-
-- 🏢 **Currently:** Developer at BOC Bank
-- 🔭 **Exploring:** Spring Boot, Angular, Microservices Architecture
-- 🌱 **Learning:** Cloud-native technologies, DevOps practices
-- 💬 **Expertise:** Java, MERN Stack, Android Development, Python
-- 💡 **Passionate about:** Solving complex problems with elegant solutions
-- ⚡ **Fun fact:** I automated my coffee brewing process with a custom script!
-
-<div align="center">
-  <img src="https://github.com/GihanJeewantha/GihanJeewantha/blob/main/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966.gif" width="350" alt="Coding Animation">
-</div>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GihanJeewantha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanJeewantha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Digital+Innovator;Tech+Enthusiast" alt="Typing SVG">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GihanJeewantha&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="700">
+  <img src="https://github.com/GihanJeewantha/GihanJeewantha/raw/main/header_.png" width="100%" alt="Header Banner">
 </div>
 
-## 🏆 Achievements
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeewantha-dilshan/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jeewanthadilshanjd@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.buymeacoffee.com/jeewantha">
+    <img src="https://img.shields.io/badge/-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=GihanJeewantha&style=for-the-badge&color=6C5CE7" alt="Profile Views">
+</p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GihanJeewantha&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <a href="https://github.com/GihanJeewantha">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=GihanJeewantha&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Stats">
+  </a>
 </div>
 
-## 🤝 Open for Collaboration
-
-I'm actively seeking opportunities to collaborate on:
-- Open-source projects
-- Full-stack web applications
-- Mobile application development
-- Enterprise software solutions
-- Innovative technology projects
-
-If you have an interesting project or need technical expertise, feel free to reach out. Let's create something amazing together!
-
 <div align="center">
-  <a href="mailto:jeewanthadilshanjd@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"></a>
+  <img src="https://github.com/GihanJeewantha/GihanJeewantha/blob/main/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966.gif" width="380" alt="Coding Animation">
 </div>
 
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="30" height="30" /> About Me
+
+I'm a dynamic software engineer with a passion for building elegant solutions to complex problems. Currently driving digital innovation at BOC Bank, I leverage cutting-edge technologies to develop scalable, high-performance applications.
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🏢 Currently developing enterprise solutions at <b>BOC Bank</b></li>
+        <li>🔭 Mastering the art of microservices architecture</li>
+        <li>🌱 Exploring <b>Spring Boot</b>, <b>Angular</b>, and <b>Cloud-native</b> technologies</li>
+        <li>💡 Passionate about clean code, performance optimization, and user experience</li>
+        <li>🚀 Building the next generation of digital banking solutions</li>
+        <li>⚡ Fun fact: I automated my entire morning routine, including coffee brewing!</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github-stats-alpha.vercel.app/api?username=GihanJeewantha&cc=2D3748&tc=fff&ic=fff&bc=transparent" alt="GitHub Stats" width="450">
+    </td>
+  </tr>
+</table>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Technical Expertise
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+  <h3>💻 Languages</h3>
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,cpp,kotlin" alt="Languages" />
+  
+  <h3>🌐 Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,sass,bootstrap,tailwind" alt="Frontend" />
+  
+  <h3>⚙️ Backend & Database</h3>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,postgresql,redis" alt="Backend & Database" />
+  
+  <h3>📱 Mobile</h3>
+  <img src="https://skillicons.dev/icons?i=android,flutter,reactnative" alt="Mobile" />
+  
+  <h3>🛠️ DevOps & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,jenkins,prometheus,grafana,vscode" alt="DevOps & Tools" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" /> GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GihanJeewantha&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7" alt="GitHub Streak" width="450">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanJeewantha&hide=html&title_color=6C5CE7&text_color=FFFFFF&icon_color=6C5CE7&bg_color=0D1117&langs_count=8&layout=compact&border_color=0D1117&hide_border=true" alt="Top Languages" width="375">
+</div>
+
+<div align="center">
+  <a href="https://github.com/GihanJeewantha">
+    <img width="850" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GihanJeewantha&theme=github_dark&bg_color=0D1117&border_color=0D1117">
+  </a>
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" height="30" /> Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GihanJeewantha&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" width="850">
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" height="30" /> Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Professional Goals</h3>
+        <p align="center">
+          <img src="https://progress-bar.dev/90/?title=Enterprise%20Architecture&width=400&color=6C5CE7">
+          <img src="https://progress-bar.dev/85/?title=Cloud%20Solutions&width=400&color=6C5CE7">
+          <img src="https://progress-bar.dev/75/?title=AI%20Integration&width=400&color=6C5CE7">
+          <img src="https://progress-bar.dev/95/?title=Performance%20Optimization&width=400&color=6C5CE7">
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Open for Collaboration</h3>
+        <p align="center">
+          ✦ Enterprise Software Solutions<br>
+          ✦ Full-Stack Web Applications<br>
+          ✦ Mobile Development Projects<br>
+          ✦ Open Source Contributions<br>
+          ✦ Fintech Innovations
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" height="30" /> Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jeewantha-dilshan/">
+    <img height="50" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:jeewanthadilshanjd@gmail.com">
+    <img height="50" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/jeewantha">
+    <img height="50" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150">
+  </a>
+</div>
+
+<div align="center">
+  <h3>💬 Let's build something extraordinary together! 💬</h3>
+</div>
+
+<div align="center">
+  <a href="https://github.com/GihanJeewantha">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&fontSize=50&fontAlignY=65&animation=fadeIn" width="100%">
 </div>
