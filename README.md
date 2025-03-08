@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Digital+Innovator;Tech+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Mobile+Application+Developer;Tech+Enthusiast" alt="Typing SVG">
 </div>
 
 <div align="center">
@@ -38,17 +38,17 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="30" height="30" /> About Me
 
-I'm a dynamic software engineer with a passion for building elegant solutions to complex problems. Currently driving digital innovation at BOC Bank, I leverage cutting-edge technologies to develop scalable, high-performance applications.
+I'm a dynamic software engineer with a passion for building elegant solutions to complex problems. Recently completed an internship at BOC Bank where I developed a mobile application using React Native. Currently seeking new opportunities in the IT industry to further apply and enhance my technical skills.
 
 <table>
   <tr>
     <td>
       <ul>
-        <li>🏢 Currently developing enterprise solutions at <b>BOC Bank</b></li>
-        <li>🔭 Mastering the art of microservices architecture</li>
-        <li>🌱 Exploring <b>Spring Boot</b>, <b>Angular</b>, and <b>Cloud-native</b> technologies</li>
+        <li>🎓 Completed internship at <b>BOC Bank</b> developing a mobile application using <b>React Native</b></li>
+        <li>🔎 Currently seeking opportunities in the IT industry</li>
+        <li>🌱 Proficient in <b>Java</b> ,<b>Python</b> ,<b>React Native</b>, <b>MERN Stack</b>, and exploring <b>Spring boot</b> technologies</li>
         <li>💡 Passionate about clean code, performance optimization, and user experience</li>
-        <li>🚀 Building the next generation of digital banking solutions</li>
+        <li>🚀 Eager to contribute to innovative software solutions</li>
         <li>⚡ Fun fact: I automated my entire morning routine, including coffee brewing!</li>
       </ul>
     </td>
@@ -96,7 +96,7 @@ I'm a dynamic software engineer with a passion for building elegant solutions to
   <img src="https://github-profile-trophy.vercel.app/?username=GihanJeewantha&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" width="850">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" height="30" /> Current Focus
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" height="30" /> Professional Development
 
 <div align="center">
   <table>
@@ -104,10 +104,10 @@ I'm a dynamic software engineer with a passion for building elegant solutions to
       <td width="50%">
         <h3 align="center">Professional Goals</h3>
         <p align="center">
-          <img src="https://progress-bar.dev/90/?title=Enterprise%20Architecture&width=400&color=6C5CE7">
-          <img src="https://progress-bar.dev/85/?title=Cloud%20Solutions&width=400&color=6C5CE7">
-          <img src="https://progress-bar.dev/75/?title=AI%20Integration&width=400&color=6C5CE7">
-          <img src="https://progress-bar.dev/95/?title=Performance%20Optimization&width=400&color=6C5CE7">
+          <img src="https://progress-bar.dev/85/?title=Full-Stack%20Development&width=400&color=6C5CE7">
+          <img src="https://progress-bar.dev/90/?title=Mobile%20App%20Development&width=400&color=6C5CE7">
+          <img src="https://progress-bar.dev/75/?title=Cloud%20Technologies&width=400&color=6C5CE7">
+          <img src="https://progress-bar.dev/80/?title=DevOps%20Practices&width=400&color=6C5CE7">
         </p>
       </td>
       <td width="50%">
