@@ -58,16 +58,7 @@
 
 ---
 
-# 🚀 Latest Projects
 
-| Project | Tech Stack | Highlights |
-|:--------|:-----------|:-----------|
-| 📱 Mobile Banking App | React Native + Node.js + AWS | Deployed app for BOC Bank internship. |
-| 🎫 Helpdesk Ticketing System | React + Spring Boot + MySQL | Full-stack issue tracking system. |
-| 🎯 School Management System | Java + JavaFX | Offline system with Role-based access. |
-| 💬 Real-time Chat App | React Native + Firebase | Instant messaging with cloud backend. |
-
----
 
 # 🎯 Why Collaborate With Me?
 
