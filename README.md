@@ -1,79 +1,74 @@
-# 👋 Hi, I'm Jeewantha Dilshan
+# 👋 Hey there, I'm Jeewantha Dilshan
 
-**Software Developer | Full-Stack Developer | Mobile App Developer**
-
-🚀 Passionate about building scalable, secure, and user-friendly web and mobile applications.
+**💻 Software Developer | Full-Stack Engineer | Mobile App Developer**  
+🚀 Passionate about crafting secure, scalable & user-friendly digital experiences.
 
 ---
 
-## 🧠 About Me
+## 📌 About Me
 
-- 🎓 **Education**: BSc (Hons) in Information Technology – Specialising in Information Technology, SLIIT  
-- 📧 **Email**: jeewantha.dgihan@gmail.com  
-- 🧠 Always learning, always building, always improving  
-- 💡 Focused on performance, UX, and clean code practices
+🎓 **BSc (Hons) in IT** – Specialised in Information Technology, **SLIIT**  
+📬 **Email**: [jeewantha.dgihan@gmail.com](mailto:jeewantha.dgihan@gmail.com)  
+💡 Always learning, always improving, always building.
 
 ---
 
 ## 💼 Experience
 
-### <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Bank_of_Ceylon_logo.svg/1200px-Bank_of_Ceylon_logo.svg.png" alt="BOC Logo" width="28"/> Developer Intern — **Bank of Ceylon**  
-**🗓️ Aug 2023 – Feb 2024 · 7 months**  
-📍 Colombo, Western Province, Sri Lanka · On-site
+### 💼 Developer Intern — **Bank of Ceylon**  
+📍 Colombo, Sri Lanka | 🗓️ *Aug 2023 – Feb 2024*
 
-- 🛠️ Developed internal tools using **Java**, **Spring Boot**, and **MySQL**
-- 🐞 Assisted in **bug fixing** and adding new features to internal web apps
-- 🤝 Worked closely with senior engineers on real-time banking systems
-- 📅 Participated in **daily standups** and agile sprint cycles
-- 🔐 Gained practical knowledge in **secure backend API development**
+- Developed internal tools with **Java**, **Spring Boot**, and **MySQL**
+- Collaborated on **secure backend APIs** & internal web platforms
+- Participated in **Agile** ceremonies, daily standups, and sprints
+- Gained exposure to **real-time banking systems** & security protocols
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,reactnative,js,ts,nodejs,mysql,mongodb,docker,html,css,bootstrap,tailwind,git,github,figma" />
-</div>
+![Tech Stack](https://skillicons.dev/icons?i=java,spring,react,reactnative,nodejs,js,ts,mysql,mongodb,postgres,docker,html,css,tailwind,bootstrap,git,github,figma,aws)
 
-✅ Java | JavaScript | TypeScript | Python  
-✅ Spring Boot | Node.js | Express.js  
-✅ React | React Native | Tailwind CSS | Bootstrap  
-✅ MySQL | MongoDB | PostgreSQL  
-✅ Git | GitHub | Docker | AWS | IntelliJ IDEA | VS Code
+> **Languages**: Java, TypeScript, JavaScript, Python  
+> **Frameworks**: Spring Boot, Node.js, Express.js  
+> **Frontend**: React, React Native, Tailwind, Bootstrap  
+> **Databases**: MySQL, MongoDB, PostgreSQL  
+> **Tools**: Git, Docker, Figma, IntelliJ, VS Code, AWS
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Projects
 
 ### 🎫 [Helpdesk / Ticketing System](https://github.com/GihanJeewantha/helpdesk-ticketing-system)
 
-> 🔧 A full-stack application using React + Spring Boot + MySQL  
-> 🔒 JWT Authentication, Role-based Access, RESTful APIs  
-> 🛠️ Users create and track tickets, admins manage and resolve them  
-> 🎯 Clean UI, validations, error handling, and local setup guide
+> 🛠️ Full-stack React + Spring Boot App  
+> 🔒 JWT Auth, Role-based Access, REST APIs  
+> 🧩 Features: ticket creation, admin resolution, UI validation  
+> 📚 Includes complete setup guide
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GihanJeewantha&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GihanJeewantha&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GihanJeewantha&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=GihanJeewantha&theme=tokyonight" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanJeewantha&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanJeewantha&layout=compact&theme=tokyonight" width="48%" />
 </div>
 
 ---
 
-## 🏆 Certifications
+## 📜 Certifications
 
-- *(Add your certifications here, or leave this section out until ready)*
+<!-- You can add certs here when ready -->
+*(Coming soon)*
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jeewantha-dilshan/" target="_blank">
@@ -90,5 +85,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+connect+and+build+together!" alt="Typing Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6C00&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!;Let's+build+something+amazing+together!"/>
 </div>
