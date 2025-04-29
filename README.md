@@ -1,85 +1,94 @@
-# 🚀 Jeewantha Dilshan | Full-Stack & Mobile App Developer
+# 👋 Hi, I'm Jeewantha Dilshan
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=900&height=100&lines=Hi+I'm+Jeewantha+Dilshan;Software+Engineer+%7C+Full-Stack+Developer;Passionate+about+Building+Web+%2B+Mobile+Solutions;Let's+Turn+Ideas+into+Reality!✨" alt="Typing Animation" />
-</div>
+**Software Engineer | Full-Stack Developer | Mobile App Developer**
 
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=220&section=header&text=Welcome!%20&fontSize=45&fontColor=ffffff" alt="Header Image"/>
-</div>
+🚀 Passionate about building scalable, secure, and user-friendly web and mobile applications.
 
 ---
 
 ## 🧠 About Me
 
-> _"Software is the magic that turns ideas into reality."_ — **Bill Gates**
-
-🎯 **Mission:** Building high-impact, user-centric products that inspire and perform.
-
-💡 **Quick Facts:**
-- 🌟 Full-Stack Developer (Web & Mobile)
-- 🎨 UI/UX Enthusiast | Performance-driven
-- 📚 Constant Learner | Tech Explorer
+- 🎓 **Education**: BSc (Hons) in Information Technology – Specialising in Information Technology, SLIIT  
+- 📧 **Email**: jeewantha.dgihan@gmail.com  
+- 🧠 Always learning, always building, always improving  
+- 💡 Focused on performance, UX, and clean code practices
 
 ---
 
-## 💻 Tech Stack
+## 💼 Experience
+
+### <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Bank_of_Ceylon_logo.svg/1200px-Bank_of_Ceylon_logo.svg.png" alt="BOC Logo" width="28"/> Developer Intern — **Bank of Ceylon**  
+**🗓️ Aug 2023 – Feb 2024 · 7 months**  
+📍 Colombo, Western Province, Sri Lanka · On-site
+
+- 🛠️ Developed internal tools using **Java**, **Spring Boot**, and **MySQL**
+- 🐞 Assisted in **bug fixing** and adding new features to internal web apps
+- 🤝 Worked closely with senior engineers on real-time banking systems
+- 📅 Participated in **daily standups** and agile sprint cycles
+- 🔐 Gained practical knowledge in **secure backend API development**
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,reactnative,nodejs,spring,mysql,mongodb,postgresql,html,css,bootstrap,tailwind,docker,git,github,aws,vscode,intellij" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,reactnative,js,ts,nodejs,mysql,mongodb,docker,html,css,bootstrap,tailwind,git,github,figma" />
+</div>
+
+✅ Java | JavaScript | TypeScript | Python  
+✅ Spring Boot | Node.js | Express.js  
+✅ React | React Native | Tailwind CSS | Bootstrap  
+✅ MySQL | MongoDB | PostgreSQL  
+✅ Git | GitHub | Docker | AWS | IntelliJ IDEA | VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 🎫 [Helpdesk / Ticketing System](https://github.com/GihanJeewantha/helpdesk-ticketing-system)
+
+> 🔧 A full-stack application using React + Spring Boot + MySQL  
+> 🔒 JWT Authentication, Role-based Access, RESTful APIs  
+> 🛠️ Users create and track tickets, admins manage and resolve them  
+> 🎯 Clean UI, validations, error handling, and local setup guide
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GihanJeewantha&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GihanJeewantha&theme=radical" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanJeewantha&layout=compact&theme=radical" width="48%"/>
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 Certifications
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GihanJeewantha&theme=github_dark&show_icons=true&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GihanJeewantha&theme=github-dark&hide_border=true" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanJeewantha&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
-</div>
+- *(Add your certifications here, or leave this section out until ready)*
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GihanJeewantha&theme=gruvbox&margin-w=10&no-frame=true" />
-</div>
-
----
-
-## 🤝 Let's Collaborate!
-
-✅  Full-Stack Expertise (Frontend + Backend + Mobile)  
-✅  UI/UX Focused, Clean Code, Scalable Systems  
-✅  Growth Mindset | Strong Communication
-
-> **🚀 Always open to exciting projects and collaborations!**
-
----
-
-## 📬 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jeewantha-dilshan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jeewantha%20Dilshan-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:jeewanthadilshanjd@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:jeewantha.dgihan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-jeewantha.dgihan@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.buymeacoffee.com/jeewantha" target="_blank">
-    <img src="https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+connect+and+build+great+things+!🚀" alt="Footer Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+connect+and+build+together!" alt="Typing Footer" />
 </div>
