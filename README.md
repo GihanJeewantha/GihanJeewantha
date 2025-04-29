@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeewantha Dilshan
 
-**Software Engineer | Full-Stack Developer | Mobile App Developer**
+**Software Developer | Full-Stack Developer | Mobile App Developer**
 
 🚀 Passionate about building scalable, secure, and user-friendly web and mobile applications.
 
