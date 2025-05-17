@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;React+Native+Expert;Cloud+&+DevOps+Learner" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;React+Native+Expert;Desktop,+Mobile,+Web+Developer;Cloud+and+DevOps+Learner" alt="Typing SVG">
 </div>
 
 ---
@@ -14,18 +14,19 @@
 ### 👨‍💻 About Me
 
 - 💼 Passionate Software Engineer seeking exciting opportunities in tech
-- 🚀 Skilled in **C#**, **Java**, **Python**, **React**, **React Native**
+- 🚀 Skilled in **C#**, **.NET MAUI**, **WPF**, **Java**, **Python**, **React**, **React Native**
 - 🛠️ Tools I love: **Visual Studio**, **Android Studio**, **VS Code**, **IntelliJ IDEA**, **PyCharm**, **MySQL**, **Git**, **GitHub**
-- 📱 Built multiple cross-platform apps using **React Native**
+- 📱 Built multiple cross-platform apps using **React Native** and **.NET MAUI**
+- 🖥️ Love developing **desktop**, **mobile**, and **web applications** with **C#** and **.NET**
 - 🌐 Strong backend understanding with **Java**, **Python**, **MySQL**
-- 🤝 Open to collaboration on full-stack and mobile projects
+- 🤝 Open to collaboration on full-stack, mobile, and desktop projects
 
 ---
 
 ### 🚀 Tech Stack
 
 #### Programming Languages
-<img src="https://skillicons.dev/icons?i=csharp,java,python,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=csharp,dotnet,java,python,javascript,html,css" />
 
 #### Frontend & Mobile
 <img src="https://skillicons.dev/icons?i=react,reactnative,html,css,tailwind" />
@@ -61,7 +62,7 @@
 
 - 🔭 Build robust and scalable cloud-native apps
 - 💡 Master CI/CD and containerization (Docker/Kubernetes)
-- 🎯 Grow as a full-stack & mobile-first product engineer
+- 🎯 Grow as a full-stack, mobile-first, and desktop app engineer
 
 ---
 
