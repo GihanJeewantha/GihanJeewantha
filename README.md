@@ -13,7 +13,6 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Passionate Software Engineer seeking exciting opportunities in tech
 - 🚀 Skilled in **C#**, **.NET MAUI**, **WPF**, **Java**, **Python**, **React**, **React Native**
 - 🛠️ Tools I love: **Visual Studio**, **Android Studio**, **VS Code**, **IntelliJ IDEA**, **PyCharm**, **MySQL**, **Git**, **GitHub**
 - 📱 Built multiple cross-platform apps using **React Native** and **.NET MAUI**
