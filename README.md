@@ -36,6 +36,13 @@
 #### Dev Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,pycharm,intellij" />
 
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F95738&center=true&vCenter=true&width=800&lines=Mistakes+make+you+perfect.;Every+expert+was+once+a+beginner.;Keep+going,+success+is+closer+than+you+think.;Failure+is+not+the+end,+it's+the+beginning+of+learning." alt="Dev Quote Typing SVG">
+</div>
+
 ---
 
 ### 📊 GitHub Stats
@@ -67,11 +74,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F95738&center=true&vCenter=true&width=800&lines=Mistakes+make+you+perfect.;Every+expert+was+once+a+beginner.;Keep+going,+success+is+closer+than+you+think.;Failure+is+not+the+end,+it's+the+beginning+of+learning." alt="Dev Quote Typing SVG">
-</div>
 
 
 ### 📬 Connect With Me
