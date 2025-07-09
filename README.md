@@ -65,13 +65,15 @@
 
 ---
 
+
 ### 🏅 Microsoft Learn Badges Showcase
 <div align="center">
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/GihanJeewantha-9717/9YKSQTMU?sharingId=95CC83877C529088" target="_blank">
-    <img src="https://learn.microsoft.com/api/achievements/share/en-us/GihanJeewantha-9717/9YKSQTMU?sharingId=95CC83877C529088" alt="Microsoft Learn Achievement Badge" width="600" />
+    <img src="https://img.shields.io/badge/Microsoft%20Learn-Badge-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn Badge" />
   </a>
-  <p>Click the badge to view my Microsoft Learn achievement!</p>
+  <p>Click to view my Microsoft Learn achievements!</p>
 </div>
+
 
 
 ---
