@@ -65,14 +65,14 @@
 
 ---
 
-
 ### 🏅 Microsoft Learn Badges Showcase
 <div align="center">
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/GihanJeewantha-9717/9YKSQTMU?sharingId=95CC83877C529088" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Learn-Badge-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn Badge" />
+    <img src="https://learn.microsoft.com/training/achievements/jeewantha-dilshan/microsoft-certified-dotnet-developer-badge.svg" alt="Microsoft Learn Badge" width="300" />
   </a>
-  <p>Click to view my Microsoft Learn achievements!</p>
+  <p>Click the badge to view my Microsoft Learn achievement!</p>
 </div>
+
 
 
 
