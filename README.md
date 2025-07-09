@@ -62,6 +62,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GihanJeewantha&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6" width="850">
 </div>
 
+
+---
+
+### 🏅 Microsoft Learn Badges Showcase
+<div align="center">
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/GihanJeewantha-9717/9YKSQTMU?sharingId=95CC83877C529088" target="_blank">
+    <img src="https://learn.microsoft.com/api/achievements/share/en-us/GihanJeewantha-9717/9YKSQTMU?sharingId=95CC83877C529088" alt="Microsoft Learn Achievement Badge" width="600" />
+  </a>
+  <p>Click the badge to view my Microsoft Learn achievement!</p>
+</div>
+
+
 ---
 
 ### 🌱 Goals & Interests
