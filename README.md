@@ -21,6 +21,7 @@
 - 🧠 Exploring **AI integrations** to elevate automation solutions  
 - 🛠️ Experienced with **Power Automate**, **UIPath**, and Python-based automation frameworks  
 - 💡 Focused on building reusable tools and optimizing business processes  
+- 🌐 Explore my work: [Visit My Portfolio](https://gihanjeewantha.github.io/portfolio/)
 - 🤝 Always open for collaborations in Automation, AI, and Productivity Tools  
 
 ---
@@ -85,6 +86,9 @@
 ### 📬 Connect With Me
 
 <div align="center">
+  <a href="https://gihanjeewantha.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/jeewantha-dilshan/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
