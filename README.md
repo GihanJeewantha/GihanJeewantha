@@ -9,37 +9,38 @@
 
 <!-- TYPING INTRO -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Automation+Developer;Software+Engineer;RPA+and+AI+Integration+Learner;Python+%7C+C%23+%7C+Power+Automate;Web,+Mobile,+Desktop+Automation+Projects" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+%26+Java+Developer;Automation+%26+Software+Engineer;C%23+%7C+.NET+MAUI+%7C+Java+%7C+React;Mobile,+Web,+Desktop+App+Builder;PostgreSQL+%26+MySQL+Database+Designer" alt="Typing SVG">
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🤖 Automation Developer with a passion for smart workflows, bots, and intelligent systems  
-- ⚙️ Skilled in **C#**, **Python**, **React Native**, **.NET MAUI**, **WPF**, and **Java**  
-- 🧠 Exploring **AI integrations** to elevate automation solutions  
-- 🛠️ Experienced with **Power Automate**, **UIPath**, and Python-based automation frameworks  
-- 💡 Focused on building reusable tools and optimizing business processes  
-- 🌐 Explore my work: [Visit My Portfolio](https://gihanjeewantha.github.io/portfolio/)
-- 🤝 Always open for collaborations in Automation, AI, and Productivity Tools  
+- 💻 Full-Stack Developer passionate about building **Web**, **Mobile**, and **Desktop** applications  
+- ⚙️ Strong in **C#**, **.NET / .NET MAUI**, **Java**, and **Object-Oriented Programming**  
+- 🧠 Currently exploring **AI and Automation** integration into real-world software  
+- 🗃️ Database experience with **PostgreSQL**, **MySQL**, and **Entity Framework**  
+- 🧩 Experienced with **Power Automate**, **UIPath**, and workflow automation tools  
+- 🧰 Skilled with **Visual Studio**, **Android Studio**, and **VS Code**  
+- 🌐 Explore my projects: [Visit My Portfolio](https://gihanjeewantha.github.io/portfolio/)  
+- 🤝 Open to collaboration in **Full-Stack .NET Projects**, **Automation**, and **AI Solutions**  
 
 ---
 
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,java,spring,javascript,html,css,react,nodejs,tailwind,git,github,mysql,linux,vscode,visualstudio,androidstudio,pycharm,intellij&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,react,html,css,javascript,nodejs,tailwind,mysql,postgres,git,github,linux,vscode,visualstudio,androidstudio,intellij&perline=8" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/powershell.svg" height="30" alt="PowerShell" title="PowerShell"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/microsoftpowerautomate.svg" height="30" alt="Power Automate" title="Power Automate"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/uipath.svg" height="30" alt="UIPath" title="UIPath"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/microsoftpowerautomate.svg" height="30" alt="Power Automate" title="Power Automate"/>
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/githubactions.svg" height="30" alt="CI/CD" title="CI/CD"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/powershell.svg" height="30" alt="PowerShell" title="PowerShell"/>
 </p>
 
 ---
@@ -47,7 +48,7 @@
 ### 💬 Dev Quotes
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F95738&center=true&vCenter=true&width=800&lines=Automate+what+you+hate.;Efficiency+is+doing+better+what+is+already+being+done.;AI+can+assist,+but+automation+empowers.;Success+comes+from+scripting+smart+solutions.;Mistakes+make+you+perfect.;Every+expert+was+once+a+beginner.;Keep+going,+success+is+closer+than+you+think.;Failure+is+not+the+end,+it's+the+beginning+of+learning." alt="Dev Quotes Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F95738&center=true&vCenter=true&width=800&lines=Code+is+the+bridge+between+idea+and+innovation.;Automate+what+you+hate.;Smart+code+saves+hours+of+manual+work.;Learning+never+ends+in+tech.;Every+expert+was+once+a+beginner.;Keep+building,+keep+improving.;.NET+developers+turn+ideas+into+apps." alt="Dev Quotes Typing SVG">
 </div>
 
 ---
@@ -75,11 +76,12 @@
 
 ### 🎯 Goals & Interests
 
-- ⚙️ Specializing in **RPA** and workflow automation  
-- 🧠 Diving deeper into **AI + Automation** integrations  
-- 🧰 Building reusable **automation microbots**  
-- 🌍 Contributing to **open-source automation** tools  
-- 📈 Growing as a **next-gen Automation Engineer**  
+- 💡 Specializing in **C# / .NET Full-Stack Development**  
+- 📱 Building modern **mobile apps** with **.NET MAUI**  
+- ⚙️ Expanding **automation and AI-driven** workflows  
+- 🧰 Creating reusable **code libraries** and developer tools  
+- 🌍 Contributing to **open-source .NET and Automation** projects  
+- 🚀 Aiming to become a **next-gen Automation & Full-Stack Engineer**  
 
 ---
 
