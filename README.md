@@ -9,51 +9,55 @@
 
 <!-- TYPING INTRO -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+%26+Java+Developer;Automation+%26+Software+Engineer;C%23+%7C+.NET+MAUI+%7C+Java+%7C+React;Mobile,+Web,+Desktop+App+Builder;PostgreSQL+%26+MySQL+Database+Designer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;C%23+%7C+.NET+MAUI+%7C+Blazor+%7C+ASP.NET+Core;Web,+Desktop,+and+Mobile+App+Engineer;Passionate+about+Automation+%26+AI+Integration" alt="Typing SVG">
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👋 About Me  
 
-- 💻 Full-Stack Developer passionate about building **Web**, **Mobile**, and **Desktop** applications  
-- ⚙️ Strong in **C#**, **.NET / .NET MAUI**, **Java**, and **Object-Oriented Programming**  
-- 🧠 Currently exploring **AI and Automation** integration into real-world software  
-- 🗃️ Database experience with **PostgreSQL**, **MySQL**, and **Entity Framework**  
-- 🧩 Experienced with **Power Automate**, **UIPath**, and workflow automation tools  
-- 🧰 Skilled with **Visual Studio**, **Android Studio**, and **VS Code**  
-- 🌐 Explore my projects: [Visit My Portfolio](https://gihanjeewantha.github.io/portfolio/)  
-- 🤝 Open to collaboration in **Full-Stack .NET Projects**, **Automation**, and **AI Solutions**  
+🚀 I'm **Jeewantha Dilshan**, a **Full-Stack .NET Developer** who loves turning ideas into real-world applications.  
+I specialize in **C#**, **.NET**, and **.NET MAUI**, developing **Web**, **Mobile**, and **Desktop** solutions that are modern, efficient, and scalable.
+
+💡 My passion combining **clean code**, **automation**, and **AI** to build smarter software.  
+I’m currently seeking opportunities to **contribute to professional .NET projects** and **grow as a full-stack engineer**.
 
 ---
 
-### 🚀 Tech Stack
+### 🧠 Skills & Expertise  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,react,html,css,javascript,nodejs,tailwind,mysql,postgres,git,github,linux,vscode,visualstudio,androidstudio,intellij&perline=8" />
-</p>
+✅ **Languages & Frameworks:**  
+C#, .NET / .NET Core, .NET MAUI, ASP.NET MVC, Blazor, Java, React, JavaScript, HTML, CSS,  
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/microsoftpowerautomate.svg" height="30" alt="Power Automate" title="Power Automate"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/uipath.svg" height="30" alt="UIPath" title="UIPath"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/githubactions.svg" height="30" alt="CI/CD" title="CI/CD"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/powershell.svg" height="30" alt="PowerShell" title="PowerShell"/>
-</p>
+✅ **Database & Backend:**  
+PostgreSQL, MySQL, Entity Framework, RESTful APIs, LINQ  
 
----
+✅ **Automation & Tools:**  
+Power Automate, UIPath, GitHub Actions, PowerShell, CI/CD  
 
-### 💬 Dev Quotes
+✅ **Development Environments:**  
+Visual Studio, Visual Studio Code, Android Studio, IntelliJ IDEA  
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F95738&center=true&vCenter=true&width=800&lines=Code+is+the+bridge+between+idea+and+innovation.;Automate+what+you+hate.;Smart+code+saves+hours+of+manual+work.;Learning+never+ends+in+tech.;Every+expert+was+once+a+beginner.;Keep+building,+keep+improving.;.NET+developers+turn+ideas+into+apps." alt="Dev Quotes Typing SVG">
-</div>
+✅ **Other Strengths:**  
+Object-Oriented Programming (OOP), Clean Architecture, Problem Solving, Team Collaboration, Agile Mindset  
 
 ---
 
-### 📊 GitHub Stats
+### 🧩 Featured Projects  
+
+Here are a few highlights from my GitHub portfolio 👇  
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🌤️ **Smart Weather App** | A cross-platform mobile app built with .NET MAUI that fetches real-time weather data and displays location-based forecasts. | C#, .NET MAUI, REST API |
+| 🏢 **Inventory Manager** | A full-stack desktop + web app for managing products, stock levels, and suppliers. | C#, ASP.NET Core, PostgreSQL |
+| ⚙️ **Workflow Automator** | An automation tool using Power Automate and C# scripts to reduce manual work. | Power Automate, C#, UIPath |
+
+🔗 [Explore All My Projects »](https://github.com/GihanJeewantha?tab=repositories)
+
+---
+
+### 📊 GitHub Insights  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GihanJeewantha&show_icons=true&theme=github_dark&count_private=true" width="450"/>
@@ -66,7 +70,7 @@
 
 ---
 
-### 🏆 GitHub Achievements
+### 🏆 Achievements  
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GihanJeewantha&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6" width="850">
@@ -74,18 +78,25 @@
 
 ---
 
-### 🎯 Goals & Interests
+### 💬 Developer Quotes  
 
-- 💡 Specializing in **C# / .NET Full-Stack Development**  
-- 📱 Building modern **mobile apps** with **.NET MAUI**  
-- ⚙️ Expanding **automation and AI-driven** workflows  
-- 🧰 Creating reusable **code libraries** and developer tools  
-- 🌍 Contributing to **open-source .NET and Automation** projects  
-- 🚀 Aiming to become a **next-gen Automation & Full-Stack Engineer**  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F95738&center=true&vCenter=true&width=800&lines=Code+is+the+bridge+between+idea+and+innovation.;Automate+what+you+hate.;Every+expert+was+once+a+beginner.;Keep+building,+keep+improving.;.NET+developers+turn+ideas+into+apps." alt="Dev Quotes Typing SVG">
+</div>
 
 ---
 
-### 📬 Connect With Me
+### 🎯 Career Goals  
+
+- 🌍 Build scalable, production-ready **.NET applications**  
+- 📱 Master **.NET MAUI** for mobile app development  
+- 🤖 Integrate **AI and automation** into everyday workflows  
+- 💼 Contribute to **enterprise-grade .NET systems**  
+- 🧩 Share open-source tools that help developers work smarter  
+
+---
+
+### 📬 Let’s Connect  
 
 <div align="center">
   <a href="https://gihanjeewantha.github.io/portfolio/">
@@ -98,7 +109,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.buymeacoffee.com/jeewantha">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+    <img src="https://img.shields.io/badge/Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
 </div>
 
