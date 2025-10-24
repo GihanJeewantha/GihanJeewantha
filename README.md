@@ -1,6 +1,4 @@
-<!-- modern_github_profile.md -->
-
-<!-- HEADER BANNER -->
+<!-- HEADER -->
 <div align="center">
   <a href="https://github.com/GihanJeewantha">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:00C9FF&height=200&section=header&text=Jeewantha%20Dilshan&fontSize=40&fontAlignY=35&animation=fadeIn" alt="Header Banner">
@@ -9,55 +7,55 @@
 
 <!-- TYPING INTRO -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;C%23+%7C+.NET+MAUI+%7C+Blazor+%7C+ASP.NET+Core;Web,+Desktop,+and+Mobile+App+Engineer;Passionate+about+Automation+%26+AI+Integration" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;C%23+%7C+.NET+MAUI+%7C+Blazor+%7C+ASP.NET+Core;Building+Web,+Desktop,+and+Mobile+Apps;Always+Learning,+Always+Improving" alt="Typing SVG">
 </div>
 
 ---
 
-### 👋 About Me  
+### 👋 Hey there, I’m Jeewantha!
 
-🚀 I'm **Jeewantha Dilshan**, a **Full-Stack .NET Developer** who loves turning ideas into real-world applications.  
-I specialize in **C#**, **.NET**, and **.NET MAUI**, developing **Web**, **Mobile**, and **Desktop** solutions that are modern, efficient, and scalable.
+I’m a **Full-Stack .NET Developer** who loves creating things that actually make life easier — whether that’s a web app, mobile app, or automation tool.  
 
-💡 My passion combining **clean code**, **automation**, and **AI** to build smarter software.  
-I’m currently seeking opportunities to **contribute to professional .NET projects** and **grow as a full-stack engineer**.
+I enjoy solving problems with **C#** and **.NET**, and I’m especially interested in how **automation and AI** can make software smarter and more helpful.  
 
----
-
-### 🧠 Skills & Expertise  
-
-✅ **Languages & Frameworks:**  
-C#, .NET / .NET Core, .NET MAUI, ASP.NET MVC, Blazor, Java, React, JavaScript, HTML, CSS,  
-
-✅ **Database & Backend:**  
-PostgreSQL, MySQL, Entity Framework, RESTful APIs, LINQ  
-
-✅ **Automation & Tools:**  
-Power Automate, UIPath, GitHub Actions, PowerShell, CI/CD  
-
-✅ **Development Environments:**  
-Visual Studio, Visual Studio Code, Android Studio, IntelliJ IDEA  
-
-✅ **Other Strengths:**  
-Object-Oriented Programming (OOP), Clean Architecture, Problem Solving, Team Collaboration, Agile Mindset  
+Right now, I’m looking for my next opportunity — a place where I can **grow as a developer**, work on real projects, and keep improving my craft.
 
 ---
 
-### 🧩 Featured Projects  
+### 🧠 What I’m Good At  
 
-Here are a few highlights from my GitHub portfolio 👇  
+- 💻 **Languages & Frameworks:**  
+  C#, .NET / .NET Core, .NET MAUI, ASP.NET MVC, Blazor, Java, React, HTML, CSS, JavaScript  
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🌤️ **Smart Weather App** | A cross-platform mobile app built with .NET MAUI that fetches real-time weather data and displays location-based forecasts. | C#, .NET MAUI, REST API |
-| 🏢 **Inventory Manager** | A full-stack desktop + web app for managing products, stock levels, and suppliers. | C#, ASP.NET Core, PostgreSQL |
-| ⚙️ **Workflow Automator** | An automation tool using Power Automate and C# scripts to reduce manual work. | Power Automate, C#, UIPath |
+- 🗃️ **Databases & Backend:**  
+  PostgreSQL, MySQL, Entity Framework, REST APIs
 
-🔗 [Explore All My Projects »](https://github.com/GihanJeewantha?tab=repositories)
+- ⚙️ **Automation & Tools:**  
+  Power Automate, UIPath, GitHub Actions, PowerShell  
+
+- 🧰 **IDE & Tools I Use:**  
+  Visual Studio, VS Code, Android Studio, IntelliJ IDEA  
+
+- 💡 **What I Bring:**  
+  OOP, Clean Architecture, Problem Solving, Team Collaboration, Curiosity to learn and improve every day  
 
 ---
 
-### 📊 GitHub Insights  
+### 💼 Some of My Projects  
+
+Here are a few things I’ve built that I’m proud of 👇  
+
+| 🚀 Project | 📝 Description | 🧰 Tech Stack |
+|-------------|----------------|----------------|
+| **Smart Weather App** | A mobile app built with .NET MAUI that gives live weather updates with a clean UI. | .NET MAUI, C#, REST API |
+| **Inventory Manager** | A full-stack web + desktop system to manage products, stock, and suppliers. | ASP.NET Core, C#, PostgreSQL |
+| **Workflow Automator** | A small automation project that saves manual work using Power Automate & C#. | Power Automate, C#, UIPath |
+
+👉 [Check out all my projects here »](https://github.com/GihanJeewantha?tab=repositories)
+
+---
+
+### 📈 My GitHub at a Glance  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GihanJeewantha&show_icons=true&theme=github_dark&count_private=true" width="450"/>
@@ -70,7 +68,7 @@ Here are a few highlights from my GitHub portfolio 👇
 
 ---
 
-### 🏆 Achievements  
+### 🏆 Achievements & Milestones  
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GihanJeewantha&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6" width="850">
@@ -78,21 +76,21 @@ Here are a few highlights from my GitHub portfolio 👇
 
 ---
 
-### 💬 Developer Quotes  
+### 💬 A Few Things I Believe In  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F95738&center=true&vCenter=true&width=800&lines=Code+is+the+bridge+between+idea+and+innovation.;Automate+what+you+hate.;Every+expert+was+once+a+beginner.;Keep+building,+keep+improving.;.NET+developers+turn+ideas+into+apps." alt="Dev Quotes Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F95738&center=true&vCenter=true&width=800&lines=Code+is+the+bridge+between+idea+and+impact.;Automate+what+you+hate.;Every+expert+was+once+a+beginner.;Keep+building,+keep+learning.;.NET+developers+turn+ideas+into+apps." alt="Dev Quotes Typing SVG">
 </div>
 
 ---
 
-### 🎯 Career Goals  
+### 🎯 What’s Next for Me  
 
-- 🌍 Build scalable, production-ready **.NET applications**  
-- 📱 Master **.NET MAUI** for mobile app development  
-- 🤖 Integrate **AI and automation** into everyday workflows  
-- 💼 Contribute to **enterprise-grade .NET systems**  
-- 🧩 Share open-source tools that help developers work smarter  
+- Building more projects with **.NET MAUI** and **Blazor**  
+- Getting deeper into **AI-powered automation**  
+- Improving as a **problem solver and full-stack engineer**  
+- Contributing to **open-source .NET** projects  
+- Joining a team where I can **learn, grow, and make real impact**
 
 ---
 
