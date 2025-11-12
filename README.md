@@ -7,55 +7,58 @@
 
 <!-- TYPING INTRO -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;C%23+%7C+.NET+MAUI+%7C+Blazor+%7C+ASP.NET+Core;Building+Web,+Desktop,+and+Mobile+Apps;Always+Learning,+Always+Improving" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;C%23+%7C+.NET+%7C+Blazor+%7C+.NET+MAUI;Java+%7C+Python+%7C+React;Building+Web,+Desktop,+and+Mobile+Apps;Always+Learning,+Always+Improving" alt="Typing SVG">
 </div>
 
 ---
 
 ### 👋 Hey there, I’m Jeewantha!
 
-I’m a **Full-Stack .NET Developer** who loves creating things that actually make life easier — whether that’s a web app, mobile app, or automation tool.  
+I’m a **Full-Stack Developer** with a passion for building reliable, scalable, and smart applications.  
+My main playground is **C# and .NET**, but I also love exploring **Java**, **Python**, and **React** to solve real-world problems across platforms.
 
-I enjoy solving problems with **C#** and **.NET**, and I’m especially interested in how **automation and AI** can make software smarter and more helpful.  
+I enjoy turning complex ideas into simple, working software — whether it’s a web app, mobile app, or automation tool.
 
-Right now, I’m looking for my next opportunity — a place where I can **grow as a developer**, work on real projects, and keep improving my craft.
-
----
-
-### 🧠 What I’m Good At  
-
-- 💻 **Languages & Frameworks:**  
-  C#, .NET / .NET Core, .NET MAUI, ASP.NET MVC, Blazor, Java, React, HTML, CSS, JavaScript  
-
-- 🗃️ **Databases & Backend:**  
-  PostgreSQL, MySQL, Entity Framework, REST APIs
-
-- ⚙️ **Automation & Tools:**  
-  Power Automate, UIPath, GitHub Actions, PowerShell  
-
-- 🧰 **IDE & Tools I Use:**  
-  Visual Studio, VS Code, Android Studio, IntelliJ IDEA  
-
-- 💡 **What I Bring:**  
-  OOP, Clean Architecture, Problem Solving, Team Collaboration, Curiosity to learn and improve every day  
+> 💡 *“Build it once. Automate it forever.”*
 
 ---
 
-### 💼 Some of My Projects  
+### 🧠 What I Work With  
 
-Here are a few things I’ve built that I’m proud of 👇  
+#### 💻 **Languages & Frameworks**
+C#, .NET / .NET Core, .NET MAUI, ASP.NET MVC, Blazor, Java, Python, React, HTML, CSS, JavaScript  
+
+#### 🗃️ **Databases & Backend**
+PostgreSQL, MySQL, Entity Framework, RESTful APIs, JSON, Firebase  
+
+#### ⚙️ **Automation & DevOps Tools**
+Power Automate, UIPath, GitHub Actions, PowerShell, Docker  
+
+#### 🧰 **Environments & Tools**
+Visual Studio, VS Code, Android Studio, IntelliJ IDEA, Postman, Git  
+
+#### 💡 **Core Strengths**
+Clean Architecture • OOP • API Design • Debugging • Problem Solving • Team Collaboration • Continuous Learning  
+
+---
+
+### 💼 Featured Projects  
+
+Here are a few projects I’ve built that I’m proud of 👇  
 
 | 🚀 Project | 📝 Description | 🧰 Tech Stack |
 |-------------|----------------|----------------|
-| **Smart Weather App** | A mobile app built with .NET MAUI that gives live weather updates with a clean UI. | .NET MAUI, C#, REST API |
-| **Inventory Manager** | A full-stack web + desktop system to manage products, stock, and suppliers. | ASP.NET Core, C#, PostgreSQL |
-| **Workflow Automator** | A small automation project that saves manual work using Power Automate & C#. | Power Automate, C#, UIPath |
+| **Smart Weather App** | A mobile app with a beautiful UI that shows live weather updates and forecasts. | .NET MAUI, C#, REST API |
+| **Inventory Manager** | Full-stack system for managing stock, products, and suppliers with reports. | ASP.NET Core, C#, PostgreSQL |
+| **Workflow Automator** | Automation tool that saves manual work with triggers and flows. | Power Automate, UIPath, C# |
+| **TaskMate** | Cross-platform task manager built with Blazor Hybrid. | Blazor, .NET MAUI, SQLite |
+| **Portfolio AI Chat** | A chatbot that answers questions about my portfolio using OpenAI API. | Python, Flask, React |
 
-👉 [Check out all my projects here »](https://github.com/GihanJeewantha?tab=repositories)
+👉 [See all my repositories »](https://github.com/GihanJeewantha?tab=repositories)
 
 ---
 
-### 📈 My GitHub at a Glance  
+### 📊 My GitHub in Numbers  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GihanJeewantha&show_icons=true&theme=github_dark&count_private=true" width="450"/>
@@ -71,30 +74,32 @@ Here are a few things I’ve built that I’m proud of 👇
 ### 🏆 Achievements & Milestones  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GihanJeewantha&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6" width="850">
+  <img src="https://github-profile-trophy.vercel.app/?username=GihanJeewantha&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6" width="800" alt="GitHub Profile Trophies">
 </div>
+
+> 🎯 *My goal is to grow as a multi-stack developer while contributing more to open-source .NET and AI projects.*
 
 ---
 
-### 💬 A Few Things I Believe In  
+### 💬 I Believe In  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F95738&center=true&vCenter=true&width=800&lines=Code+is+the+bridge+between+idea+and+impact.;Automate+what+you+hate.;Every+expert+was+once+a+beginner.;Keep+building,+keep+learning.;.NET+developers+turn+ideas+into+apps." alt="Dev Quotes Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F95738&center=true&vCenter=true&width=800&lines=Code+is+the+bridge+between+idea+and+impact.;Automate+what+you+hate.;Every+expert+was+once+a+beginner.;Keep+building,+keep+learning.;The+best+code+makes+life+easier." alt="Dev Quotes Typing SVG">
 </div>
 
 ---
 
-### 🎯 What’s Next for Me  
+### 🎯 What’s Next  
 
-- Building more projects with **.NET MAUI** and **Blazor**  
-- Getting deeper into **AI-powered automation**  
-- Improving as a **problem solver and full-stack engineer**  
-- Contributing to **open-source .NET** projects  
-- Joining a team where I can **learn, grow, and make real impact**
+- Building more cross-platform apps using **.NET MAUI** and **Blazor Hybrid**  
+- Learning deeper **AI + automation** integration in C# and Python  
+- Exploring **React-based frontends** for .NET backends  
+- Contributing to **open-source developer tools**  
+- Joining a team where I can **learn, share, and grow** together  
 
 ---
 
-### 📬 Let’s Connect  
+### 📬 Connect With Me  
 
 <div align="center">
   <a href="https://gihanjeewantha.github.io/portfolio/">
