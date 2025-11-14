@@ -57,6 +57,7 @@ My code focuses on:
 
 ---
 
+<!--
 # 🚀 **Featured Real Projects**
 
 | Project | Description | Stack |
@@ -66,6 +67,8 @@ My code focuses on:
 | **Workflow Automator** | Automates repetitive business tasks. | Power Automate, UIPath, C# |
 | **TaskMate** | Cross-platform task management app. | MAUI + Blazor, SQLite |
 | **Portfolio AI Chatbot** | AI bot that answers portfolio questions. | Python, Flask, React |
+-->
+
 
 👉 **See all repositories:**  
 **https://github.com/GihanJeewantha?tab=repositories**
