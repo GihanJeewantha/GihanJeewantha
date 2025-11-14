@@ -88,7 +88,7 @@ My code focuses on:
 # 🏆 **Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GihanJeewantha&theme=onestar&no-bg=true&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GihanJeewantha&theme=onestar&no-bg=true&no-frame=true&row=1&column=8" />
 </div>
 
 ---
