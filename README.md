@@ -5,7 +5,7 @@
 
 ### 🚀 Full-Stack Engineer • Automation Thinker • Builder of Useful Things
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=I+build+software+that+scales.;Web+%7C+Mobile+%7C+Desktop+Solutions.;Clean+Architecture+over+Quick+Fixes.;Automation+first%2C+manual+never.;Turning+ideas+into+systems." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=I+build+software+that+scales.;Web+%7C+Mobile+%7C+Desktop+Solutions.;Clean+Architecture+over+Quick+Fixes.;Turning+ideas+into+systems." />
 
 </div>
 
