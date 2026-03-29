@@ -132,3 +132,42 @@ I combine:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=120&section=footer" />
 </div>
+
+---
+
+## 🏆 Certifications & Badges
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Linux%20Foundation-Istio%20Fundamentals-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Amazon%20Q%20Developer%20Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-API%20Fundamentals%20Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/freeCodeCamp-C%23%20Foundations-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-Generative%20AI%20Essentials-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-Software%20Development%20Essentials-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</div>
+
+---
+
+## 💼 Experience
+
+### 🖥️ Junior System Administrator  
+**Lyceum International Schools** (2026 – Present)
+
+- ⚙️ Manage system operations, Active Directory, and network infrastructure  
+- 🔧 Troubleshoot hardware, software, and connectivity issues  
+- 📊 Focus on system reliability, uptime, and proactive issue resolution  
+
+---
+
+### 💻 Developer Intern  
+**Bank of Ceylon** (2023 – 2024)
+
+- 🌐 Worked on mobile and web application development  
+- 🗄️ Integrated backend systems and databases  
+- 🤝 Gained real-world SDLC and team collaboration experience  
+
+---
+
