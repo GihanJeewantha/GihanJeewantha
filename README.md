@@ -135,22 +135,36 @@ I combine:
 
 ---
 
+---
+
 ## 🏆 Certifications & Badges
 
 <div align="center">
 
+### ☁️ Cloud & DevOps
 <img src="https://img.shields.io/badge/Linux%20Foundation-Istio%20Fundamentals-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-Amazon%20Q%20Developer%20Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<br/><br/>
+
+### ⚙️ Development & Tools
 <img src="https://img.shields.io/badge/Postman-API%20Fundamentals%20Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/freeCodeCamp-C%23%20Foundations-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+
+<br/><br/>
+
+### 🧠 AI & Software Foundations
 <img src="https://img.shields.io/badge/Microsoft-Generative%20AI%20Essentials-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft-Software%20Development%20Essentials-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<br/><br/>
+
+### 🔐 Networking & Security
 <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 </div>
 
 ---
-
 ## 💼 Experience
 
 ### 🖥️ Junior System Administrator  
