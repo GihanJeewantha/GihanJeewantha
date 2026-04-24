@@ -1,11 +1,10 @@
-<!-- HERO -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Dilshan%20Kumarasingha&fontSize=46&fontColor=FFFFFF&animation=fadeIn" />
 
-### ☁️ DevOps Engineer • Cloud Learner • Automation Builder
+### 💻 Junior Software Engineer • Java • Python • React • Backend Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+and+Deploying+Scalable+Systems.;Automation+is+my+default.;From+Code+to+Cloud.;Bridging+Development+and+Operations." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Scalable+and+Reliable+Applications.;From+Code+to+Production+Systems.;Backend+Focused+Developer.;Always+Learning+and+Improving." />
 
 </div>
 
@@ -13,28 +12,22 @@
 
 ## 🧠 Who I Am
 
-I’m **Dilshan**, an IT graduate and **Junior System Administrator**  
-passionate about **DevOps, Cloud, and Automation**.
+I’m **Dilshan**, an IT graduate and aspiring **Junior Software Engineer** with a solid foundation in **software development, system administration, and IT support**.
 
-I focus on how systems are **built, deployed, and maintained** — not just coded.
+I focus on building and understanding **real-world applications and systems**, bridging the gap between clean code and reliable infrastructure.
 
-- ⚙️ Managing systems, networks, and infrastructure  
-- 🔍 Troubleshooting and improving system reliability  
-- 🚀 Transitioning into **DevOps & Cloud Engineering**
+* **💻 Backend Development:** Proficient in Java and Python.
+* **🌐 Frontend & Mobile:** Experience with React and mobile app integration.
+* **🗄️ Data Management:** Working with SQL databases and RESTful APIs.
+* **⚙️ Systems Knowledge:** Strong background in IT operations and Linux.
 
-> **My mindset:**  
-> *Build it. Automate it. Deploy it. Monitor it.*
+> **My Goal:** To grow as a Software Engineer specializing in backend and full-stack systems while leveraging my DevOps mindset.
 
 ---
 
 ## 🔄 My Journey
 
-🖥️ System Administration → 🌐 Development → ☁️ DevOps & Cloud
-
-I combine:
-- **Development skills** (Python, Java, React)
-- **System knowledge** (Linux, networking, troubleshooting)
-- **DevOps practices** (automation, CI/CD, containerization)
+🖥️ IT Support & System Admin → 💻 Software Development → 🚀 Software Engineering → ☁️ DevOps & Cloud
 
 ---
 
@@ -45,18 +38,14 @@ I combine:
 ### 💻 Languages & Development
 <img src="https://skillicons.dev/icons?i=python,java,js,react,html,css" />
 
-### ⚙️ DevOps & Cloud
+### ⚙️ Tools & Foundations
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
 <br/>
-<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20(Learning)-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloud-AWS%20(Learning)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-
-### 🔁 Automation
-<img src="https://img.shields.io/badge/Automation-Scripting-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Monitoring-Learning-orange?style=for-the-badge" />
 
 </div>
 
@@ -64,24 +53,45 @@ I combine:
 
 ## 🚀 What I’m Working On
 
-- 🐳 Containerizing applications using Docker  
-- 🔄 Building CI/CD pipelines with GitHub Actions  
-- ☁️ Learning cloud deployment (AWS)  
-- 📦 Deploying full-stack applications end-to-end  
-- 📊 Exploring monitoring & logging systems  
+* 🐳 **Containerization:** Learning to package applications using Docker.
+* 🔄 **Automation:** Building CI/CD pipelines with GitHub Actions.
+* ☁️ **Cloud:** Exploring deployment strategies on AWS.
+* 📦 **Full-Stack Projects:** Developing end-to-end applications for my portfolio.
+* 🧠 **System Design:** Improving my knowledge of backend architecture and scalability.
 
 ---
 
-## 📌 DevOps Mindset
+## 💼 Experience
+
+### 💻 Software Developer Intern
+**Bank of Ceylon** | 2023 – 2024
+
+* 🌐 Contributed to mobile and web application development.
+* 🗄️ Worked with backend systems and database integration.
+* 🧪 Participated in system testing and the full Software Development Life Cycle (SDLC).
+* 🤝 Collaborated effectively within developer and QA teams.
+
+### 🖥️ IT & System Support
+**Lyceum International Schools** | 2026 – Present
+
+* ⚙️ Provide technical support for systems, users, and IT infrastructure.
+* 🔧 Manage Active Directory, system access, and device configuration.
+* 🛠️ Troubleshoot software, hardware, and network issues to ensure 99.9% uptime.
+* 📊 Focus on proactive system reliability and operational continuity.
+
+---
+
+## 🏆 Certifications & Badges
 
 <div align="center">
 
-| Principle | Meaning |
-|----------|--------|
-| ⚡ Automate Everything | Reduce manual work |
-| 🔁 Continuous Delivery | Ship faster & safer |
-| 📊 Observability | Monitor what matters |
-| 🛡️ Reliability First | Systems should not fail silently |
+<img src="https://img.shields.io/badge/Postman-API%20Fundamentals%20Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-Software%20Development%20Essentials-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Amazon%20Q%20Developer%20Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/freeCodeCamp-C%23%20Foundations-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux%20Foundation-Istio%20Fundamentals-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white"/>
 
 </div>
 
@@ -90,17 +100,8 @@ I combine:
 ## 📊 GitHub Activity
 
 <div align="center">
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=GihanJeewantha&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanJeewantha&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=GihanJeewantha&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🧠 DevOps Philosophy
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2600&pause=900&color=F39C12&center=true&vCenter=true&width=800&lines=Automate+the+boring.;If+it+breaks%2C+fix+the+system.;Deploy+with+confidence.;Monitor+everything.;Learn+continuously." />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=GihanJeewantha&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanJeewantha&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -123,65 +124,6 @@ I combine:
 
 </div>
 
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=120&section=footer" />
 </div>
-
----
-
----
-
-## 🏆 Certifications & Badges
-
-<div align="center">
-
-### ☁️ Cloud & DevOps
-<img src="https://img.shields.io/badge/Linux%20Foundation-Istio%20Fundamentals-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-Amazon%20Q%20Developer%20Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<br/><br/>
-
-### ⚙️ Development & Tools
-<img src="https://img.shields.io/badge/Postman-API%20Fundamentals%20Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/freeCodeCamp-C%23%20Foundations-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
-
-<br/><br/>
-
-### 🧠 AI & Software Foundations
-<img src="https://img.shields.io/badge/Microsoft-Generative%20AI%20Essentials-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft-Software%20Development%20Essentials-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-<br/><br/>
-
-### 🔐 Networking & Security
-<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-</div>
-
----
-## 💼 Experience
-
-### 🖥️ Junior System Administrator  
-**Lyceum International Schools** (2026 – Present)
-
-- ⚙️ Manage system operations, Active Directory, and network infrastructure  
-- 🔧 Troubleshoot hardware, software, and connectivity issues  
-- 📊 Focus on system reliability, uptime, and proactive issue resolution  
-
----
-
-### 💻 Developer Intern  
-**Bank of Ceylon** (2023 – 2024)
-
-- 🌐 Worked on mobile and web application development  
-- 🗄️ Integrated backend systems and databases  
-- 🤝 Gained real-world SDLC and team collaboration experience  
-
----
-
